@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\deris\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\deris\\anaconda3\\python.exe",
+    "python.terminal.activateEnvirontment": true,
+    "python.linting.pylintEnabled": true,
+    "python.condaPath": "C:\\Users\\deris\\anaconda3\\Scripts\\conda.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
 }
